@@ -8,8 +8,7 @@
 
 # a = int(20.55)
 # a = int(True)
-# a = int(False)
-a = int(5+2j)
+a = int(False)
 
 b = 45
 

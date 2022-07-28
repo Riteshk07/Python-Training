@@ -1,0 +1,5 @@
+print(45)
+print(45.45)
+print(True)
+print(5+8j)
+print("sohan")
