@@ -6,3 +6,5 @@ a = "M7N"
 
 b = a.istitle()
 print(b)
+
+
