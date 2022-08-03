@@ -20,7 +20,6 @@
   * Boolean
    
 ## Day 2
-
 * Boolean
   * True
   * False
@@ -31,3 +30,15 @@
   * float()
   * complex()
 
+## Day 3
+* Type Constructor
+  * bool()
+  * str()
+* Print Function
+  * Print Record 
+  * Print Multiple Records 
+  * Print Heterogeneous Records 
+* Print function keyword Arguments
+  * sep
+  * end
+  * flush
