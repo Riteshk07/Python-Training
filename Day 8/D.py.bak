@@ -1,0 +1,5 @@
+a = "Sohan"
+
+a[0] = "M"
+
+print(a)
