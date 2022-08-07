@@ -1,4 +1,0 @@
-a = "Heera Thakur"
-
-
-print(a[4])
